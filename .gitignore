@@ -20,3 +20,6 @@ reports/*.pdf
 .vscode/
 .idea/
 .DS_Store
+
+# Local automation scripts
+*.bat
