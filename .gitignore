@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+*.sqlite3
+
+# Environment variables & Secrets
+.env
+.env.*
+
+# Data & Reports output (caso contenham arquivos pesados/gerados)
+data/*.csv
+data/*.xlsx
+reports/*.pdf
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
